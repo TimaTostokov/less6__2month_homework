@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">less6__2month_homework</string>
+    <string name="Str">Выполните вход или зарегистрируйтесть.</string>
+    <string name="ST">Добро пожаловать!</string>
+    <string name="join">Вход</string>
+    <string name="vhod">Выполните вход</string>
+    <string name="register">или зарегистрируйтесть</string>
+    <string name="VOITI">Войти</string>
+    <string name="forget_password">Забыл пароль?</string>
+    <string name="Click_on_here">Нажмите сюда</string>
+</resources>
